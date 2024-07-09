@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Max",
+    "age": 5,
+    "breed": "Labrador Retriever",
+    "size": "LARGE",
+    "furType": "SHORT",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "123456789A"
+  },
+  {
+    "name": "Bella",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "size": "MEDIUM",
+    "furType": "LONG",
+    "considerations": "Regular brushing required to prevent matting.",
+    "active": true,
+    "ownerDni": "123456789A"
+  },
+  {
+    "name": "Charlie",
+    "age": 2,
+    "breed": "Poodle",
+    "size": "SMALL",
+    "furType": "CURLY",
+    "considerations": "Trim hair around eyes regularly to prevent obstruction of vision.",
+    "active": false,
+    "ownerDni": "456123789C"
+  },
+  {
+    "name": "Lucy",
+    "age": 4,
+    "breed": "Beagle",
+    "size": "MEDIUM",
+    "furType": "SHORT",
+    "considerations": "Requires extra attention to ears during grooming.",
+    "active": true,
+    "ownerDni": "987654321B"
+  },
+  {
+    "name": "Daisy",
+    "age": 6,
+    "breed": "Shih Tzu",
+    "size": "SMALL",
+    "furType": "LONG",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "987654321B"
+  },
+  {
+    "name": "Rocky",
+    "age": 3,
+    "breed": "German Shepherd",
+    "size": "LARGE",
+    "furType": "SHORT",
+    "considerations": "Sensitive skin, requires hypoallergenic shampoo.",
+    "active": true,
+    "ownerDni": "369258147F"
+  },
+  {
+    "name": "Luna",
+    "age": 2,
+    "breed": "Siberian Husky",
+    "size": "LARGE",
+    "furType": "LONG",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "369258147F"
+  },
+  {
+    "name": "Molly",
+    "age": 4,
+    "breed": "Boxer",
+    "size": "LARGE",
+    "furType": "SHORT",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "789456123D"
+  },
+  {
+    "name": "Sadie",
+    "age": 5,
+    "breed": "Dachshund",
+    "size": "SMALL",
+    "furType": "SHORT",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "789456123D"
+  },
+  {
+    "name": "Buddy",
+    "age": 3,
+    "breed": "Bulldog",
+    "size": "MEDIUM",
+    "furType": "SHORT",
+    "considerations": "None",
+    "active": false,
+    "ownerDni": "789456123D"
+  },
+  {
+    "name": "Maggie",
+    "age": 4,
+    "breed": "Pug",
+    "size": "SMALL",
+    "furType": "SHORT",
+    "considerations": "Sensitive skin, requires hypoallergenic shampoo.",
+    "active": false,
+    "ownerDni": "258963147E"
+  },
+  {
+    "name": "Bailey",
+    "age": 5,
+    "breed": "Chihuahua",
+    "size": "SMALL",
+    "furType": "SHORT",
+    "considerations": "None",
+    "active": false,
+    "ownerDni": "369147258H"
+  },
+  {
+    "name": "Duke",
+    "age": 3,
+    "breed": "Rottweiler",
+    "size": "LARGE",
+    "furType": "SHORT",
+    "considerations": "Regular brushing required to prevent matting.",
+    "active": true,
+    "ownerDni": "147258369I"
+  },
+  {
+    "name": "Lily",
+    "age": 2,
+    "breed": "Shetland Sheepdog",
+    "size": "MEDIUM",
+    "furType": "LONG",
+    "considerations": "None",
+    "active": false,
+    "ownerDni": "147369258G"
+  },
+  {
+    "name": "Sophie",
+    "age": 4,
+    "breed": "Great Dane",
+    "size": "LARGE",
+    "furType": "SHORT",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "147369258G"
+  },
+  {
+    "name": "Oliver",
+    "age": 5,
+    "breed": "Maltese",
+    "size": "SMALL",
+    "furType": "LONG",
+    "considerations": "None",
+    "active": true,
+    "ownerDni": "258147369J"
+  },
+  {
+    "name": "Chloe",
+    "age": 3,
+    "breed": "Doberman Pinscher",
+    "size": "LARGE",
+    "furType": "SHORT",
+    "considerations": "Regular brushing required to prevent matting.",
+    "active": true,
+    "ownerDni": "258147369J"
+  },
+  {
+    "name": "Lucky",
+    "age": 2,
+    "breed": "Afghan Hound",
+    "size": "LARGE",
+    "furType": "LONG",
+    "considerations": "Regular grooming required.",
+    "active": true,
+    "ownerDni": "223369258O"
+  },
+  {
+    "name": "Shadow",
+    "age": 3,
+    "breed": "Old English Sheepdog",
+    "size": "LARGE",
+    "furType": "LONG",
+    "considerations": "Regular grooming required.",
+    "active": true,
+    "ownerDni": "223369258O"
+  },
+  {
+    "name": "Coco",
+    "age": 4,
+    "breed": "Briard",
+    "size": "LARGE",
+    "furType": "LONG",
+    "considerations": "Regular grooming required.",
+    "active": true,
+    "ownerDni": "432369147N"
+  },
+  {
+    "name": "Teddy",
+    "age": 2,
+    "breed": "Havanese",
+    "size": "SMALL",
+    "furType": "CURLY",
+    "considerations": "Regular grooming required.",
+    "active": true,
+    "ownerDni": "432369147N"
+  },
+  {
+    "name": "Rosie",
+    "age": 1,
+    "breed": "Puli",
+    "size": "MEDIUM",
+    "furType": "CURLY",
+    "considerations": "Regular grooming required.",
+    "active": true,
+    "ownerDni": "432369147N"
+  }
+]

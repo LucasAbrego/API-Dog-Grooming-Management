@@ -1,0 +1,122 @@
+[
+  {
+    "dni": "123456789A",
+    "name": "John",
+    "lastname": "Doe",
+    "address": "123 Main St",
+    "phoneNumber": "123-456-7890",
+    "active": true
+  },
+  {
+    "dni": "987654321B",
+    "name": "Alice",
+    "lastname": "Smith",
+    "address": "456 Elm St",
+    "phoneNumber": "456-789-0123",
+    "active": true
+  },
+  {
+    "dni": "456123789C",
+    "name": "Bob",
+    "lastname": "Johnson",
+    "address": "789 Oak St",
+    "phoneNumber": "789-012-3456",
+    "active": false
+  },
+  {
+    "dni": "789456123D",
+    "name": "Carol",
+    "lastname": "Williams",
+    "address": "321 Pine St",
+    "phoneNumber": "321-654-9870",
+    "active": true
+  },
+  {
+    "dni": "258963147E",
+    "name": "David",
+    "lastname": "Brown",
+    "address": "654 Cedar St",
+    "phoneNumber": "654-987-3210",
+    "active": false
+  },
+  {
+    "dni": "369258147F",
+    "name": "Emma",
+    "lastname": "Jones",
+    "address": "987 Maple St",
+    "phoneNumber": "987-321-6540",
+    "active": true
+  },
+  {
+    "dni": "147369258G",
+    "name": "Frank",
+    "lastname": "Garcia",
+    "address": "456 Birch St",
+    "phoneNumber": "456-123-9870",
+    "active": true
+  },
+  {
+    "dni": "369147258H",
+    "name": "Grace",
+    "lastname": "Martinez",
+    "address": "789 Walnut St",
+    "phoneNumber": "789-654-3210",
+    "active": false
+  },
+  {
+    "dni": "147258369I",
+    "name": "Henry",
+    "lastname": "Rodriguez",
+    "address": "123 Cherry St",
+    "phoneNumber": "123-789-6540",
+    "active": true
+  },
+  {
+    "dni": "258147369J",
+    "name": "Ivy",
+    "lastname": "Lopez",
+    "address": "321 Sycamore St",
+    "phoneNumber": "321-987-6540",
+    "active": true
+  },
+  {
+    "dni": "659789123K",
+    "name": "Michael",
+    "lastname": "Johnson",
+    "address": "789 Oak St",
+    "phoneNumber": "789-012-3456",
+    "active": true
+  },
+  {
+    "dni": "543258369L",
+    "name": "Emily",
+    "lastname": "Anderson",
+    "address": "987 Maple St",
+    "phoneNumber": "987-321-6540",
+    "active": true
+  },
+  {
+    "dni": "435147258M",
+    "name": "Sophia",
+    "lastname": "Garcia",
+    "address": "456 Birch St",
+    "phoneNumber": "456-123-9870",
+    "active": true
+  },
+  {
+    "dni": "432369147N",
+    "name": "James",
+    "lastname": "Martinez",
+    "address": "789 Walnut St",
+    "phoneNumber": "789-654-3210",
+    "active": true
+  },
+  {
+    "dni": "223369258O",
+    "name": "Charlotte",
+    "lastname": "Rodriguez",
+    "address": "123 Cherry St",
+    "phoneNumber": "123-789-6540",
+    "active": true
+  }
+]
