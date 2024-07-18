@@ -1,4 +1,4 @@
-# API-Dog-Grooming-Management
+**API-Dog-Grooming-Management**
 La aplicación es un sistema de gestión para una peluquería canina, desarrollada completamente en el backend utilizando tecnologías como Spring Boot, Hibernate, MySQL, y validaciones con Jakarta Validation API. Permite manejar citas de grooming para mascotas, clientes, y administrar turnos con servicios como baño y corte de pelo.
 
 Además cuenta con un controlador que nos permite cargar datos de clientes/mascotas desde archivos Json para realizar pruebas y genera automaticamente turnos ficticios siguiendo ciertas reglas de negocio. 
@@ -7,7 +7,7 @@ Además cuenta con un controlador que nos permite cargar datos de clientes/masco
 | ENDPOINTS |
 
 
---Data Controller--
+**Data Controller**
 
 POST /data/reset: Reinicia y carga datos de prueba en la base de datos.
 
@@ -15,7 +15,8 @@ DELETE /data/deleteAll: Elimina todos los datos de la base de datos.
 
 
 
---Client Controller--
+
+**Client Controller**
 
 POST /clients/save: Crea un nuevo cliente.
 
@@ -37,7 +38,8 @@ DELETE /clients/delete/{dni}: Elimina un cliente.
 
 
 
---Pet Controller--
+
+**Pet Controller**
 
 POST /pets/save: Crea una nueva mascota.
 
@@ -59,7 +61,8 @@ DELETE /pets/delete/{petId}: Elimina una mascota.
 
 
 
---Turn Controller--
+
+**Turn Controller**
 
 POST /turns/save: Crea un nuevo turno.
 
@@ -76,5 +79,7 @@ GET /turns/findByDataRange: Obtiene los turnos dentro de un rango de fechas.
 PUT /turns/edit/{turnId}: Actualiza los datos de un turno existente.
 
 PUT /turns/cancel/{turnId}: Cancela un turno.
+
 PUT /turns/pay/{turnId}: Marca un turno como pagado.
+
 DELETE /turns/delete/{turnId}: Elimina un turno.
